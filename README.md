@@ -2,7 +2,7 @@
 My favourite high-resolution wallpapers for PC
 
 ## sources
-Most of the wallpapers I got from this: [text](https://github.com/dharmx/walls)
+Most of the wallpapers I got from [this repository](https://github.com/dharmx/walls)
 
 ## Previews
 
