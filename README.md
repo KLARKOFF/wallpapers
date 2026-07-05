@@ -17,3 +17,13 @@ Most of the wallpapers I got from this: [text](https://github.com/dharmx/walls)
 <image-card alt="Van on the road with rainbow" src="anime/a_van_on_the_road_with_a_rainbow_in_the_background.jpg" ></image-card>
 <image-card alt="b-298" src="anime/b-298.jpg" ></image-card>
 <image-card alt="n-wallhaven" src="anime/n-wallhaven-x8jx7v-bg.jpg" ></image-card>
+```
+
+<image-card alt="One Dark" src="districts/07.%20One%20Dark.png" ></image-card>
+<image-card alt="58" src="districts/58.png" ></image-card>
+<image-card alt="Bicycle parked" src="districts/a_bicycle_parked_on_a_street.jpg" ></image-card>
+<image-card alt="City by the water" src="districts/a_city_by_the_water.jpg" ></image-card>
+<image-card alt="Gas station at night" src="districts/a_gas_station_at_night.jpg" ></image-card>
+<image-card alt="House in the woods" src="districts/a_house_in_the_woods.png" ></image-card>
+<image-card alt="Road with cars" src="districts/a_road_with_cars_driving_on_it.png" ></image-card>
+<image-card alt="Town with snow" src="districts/a_town_with_snow_covered_roofs_and_lights.png" ></image-card>
