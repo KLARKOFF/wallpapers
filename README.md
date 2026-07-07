@@ -6,8 +6,13 @@ Most of the wallpapers I got from [this repository](https://github.com/dharmx/wa
 I cant remember every corner of the internet where I found all of them, sorry.
 
 ## Preview
-The best way to browse all this pictures is to download this repo and use a file explorer, because
-github is slow. But anyway, here are the best wallpapers from each category (not all of them!):
+The best way to browse all this pictures is to download this repo and use a file explorer. You can do it by clicking "Code" -> "Download ZIP" 
+or using this command:
+```
+git clone --depth 1 https://github.com/KLARKOFF/wallpapers.git
+```
+
+But anyway, here are the best wallpapers from each category (not all of them!):
 
 ## Art
 
